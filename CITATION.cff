@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this benchmark codebase or dataset, please cite our paper and the Zenodo dataset record."
+title: "A Reproducible Benchmark for Roman Urdu Emotion Classification via LLM-Based Dataset Construction and Orthographic Variation Modeling"
+type: article
+authors:
+  - family-names: "Nayab"
+    given-names: "Malik Mir Hamza"
+    orcid: "https://orcid.org/0009-0009-4566-9457"
+  - family-names: "Batool"
+    given-names: "Ghanwa"
+  - family-names: "Iqbal"
+    given-names: "Zainab"
+  - family-names: "Zulqrnain"
+    given-names: "Muhammad"
+journal: "IEEE Access"
+year: 2026
+url: "https://github.com/hamzanayab/roman-urdu-emotion-benchmark"
+keywords:
+  - "Roman Urdu"
+  - "emotion classification"
+  - "orthographic variation"
+  - "GoEmotions"
+  - "natural language processing"
+  - "reproducibility"

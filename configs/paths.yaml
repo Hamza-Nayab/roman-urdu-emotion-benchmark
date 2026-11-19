@@ -1,0 +1,10 @@
+# Default data and artifact paths (relative to repository root by default)
+paths:
+  data_dir: "data"
+  source_csv: "data/goemotions_roman_ur_firstlabel.csv"
+  flagged_csv: "data/goemotions_roman_ur_flagged.csv"
+  splits_dir: "data/splits"
+  outputs_dir: "outputs"
+  results_dir: "results"
+  checkpoints_dir: "checkpoints"
+  run_log: "outputs/RUN_LOG.jsonl"

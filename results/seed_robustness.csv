@@ -1,0 +1,11 @@
+model,configuration,seed,test_macro_f1
+XLM-R,"k=3, 3 epochs",42,0.2869
+XLM-R,"k=3, 3 epochs",43,0.2895
+XLM-R,"k=3, 3 epochs",44,0.2919
+mBERT,"k=3, 2 epochs",42,0.2807
+mBERT,"k=3, 2 epochs",43,0.2645
+mBERT,"k=3, 2 epochs",44,0.2747
+MuRIL,"k=3, 4 epochs",42,0.2334
+MuRIL,"k=3, 4 epochs",43,0.2179
+MuRIL,"k=3, 4 epochs",44,0.2286
+

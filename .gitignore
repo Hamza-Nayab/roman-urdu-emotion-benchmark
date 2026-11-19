@@ -1,0 +1,33 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Large datasets, splits, and generated data
+data/
+*.csv.gz
+*.tar.gz
+
+# Model weights, checkpoints, and outputs
+outputs/
+checkpoints/
+tmp/
+*.bin
+*.safetensors
+*.pt
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
